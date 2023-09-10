@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: (https://eliomar-silva.github.io/results-summary-component-main/)
+- Live Site URL: [Github Pages](https://eliomar-silva.github.io/results-summary-component-main/)
 
 ## My process
 
